@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Documentation:
 
 # Getting files required
